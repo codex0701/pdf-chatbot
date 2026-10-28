@@ -1,0 +1,5 @@
+streamlit>=1.30
+pypdf>=4.0
+scikit-learn>=1.3
+anthropic>=0.40
+python-dotenv>=1.0
